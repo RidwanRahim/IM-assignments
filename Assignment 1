@@ -1,5 +1,0 @@
-the assignment was done using matlab codes.
-n has been set as a row vector with values ranging from 1 to 7.
-k has been set to 4.
-along the x-axis, n has been plotted and along the y-axis, the given equations have been plotted.
-in terms of computational complexity, the logarithmic equation seems to be the best and the polynomial equations seems to be the worst. 
